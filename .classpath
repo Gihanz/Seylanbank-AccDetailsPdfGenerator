@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src" including="**/*.java"/>
+  <classpathentry kind="src" path="resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/bouncycastle/bcprov-jdk16/1.38/bcprov-jdk16-1.38.jar" sourcepath="M2_REPO/org/bouncycastle/bcprov-jdk16/1.38/bcprov-jdk16-1.38-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16.jar" sourcepath="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/3.1/commons-collections-3.1.jar" sourcepath="M2_REPO/commons-collections/commons-collections/3.1/commons-collections-3.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/xhtmlrenderer/flying-saucer-pdf/9.1.20/flying-saucer-pdf-9.1.20.jar" sourcepath="M2_REPO/org/xhtmlrenderer/flying-saucer-pdf/9.1.20/flying-saucer-pdf-9.1.20-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/lowagie/itext/2.1.7/itext-2.1.7.jar" sourcepath="M2_REPO/com/lowagie/itext/2.1.7/itext-2.1.7-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/bouncycastle/bcmail-jdk14/1.64/bcmail-jdk14-1.64.jar" sourcepath="M2_REPO/org/bouncycastle/bcmail-jdk14/1.64/bcmail-jdk14-1.64-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/bouncycastle/bcprov-jdk14/1.64/bcprov-jdk14-1.64.jar" sourcepath="M2_REPO/org/bouncycastle/bcprov-jdk14/1.64/bcprov-jdk14-1.64-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/bouncycastle/bcpkix-jdk14/1.64/bcpkix-jdk14-1.64.jar" sourcepath="M2_REPO/org/bouncycastle/bcpkix-jdk14/1.64/bcpkix-jdk14-1.64-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/bouncycastle/bctsp-jdk14/1.46/bctsp-jdk14-1.46.jar" sourcepath="M2_REPO/org/bouncycastle/bctsp-jdk14/1.46/bctsp-jdk14-1.46-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/xhtmlrenderer/flying-saucer-core/9.1.20/flying-saucer-core-9.1.20.jar" sourcepath="M2_REPO/org/xhtmlrenderer/flying-saucer-core/9.1.20/flying-saucer-core-9.1.20-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/thymeleaf/thymeleaf/3.0.12.RELEASE/thymeleaf-3.0.12.RELEASE.jar" sourcepath="M2_REPO/org/thymeleaf/thymeleaf/3.0.12.RELEASE/thymeleaf-3.0.12.RELEASE-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/ognl/ognl/3.1.26/ognl-3.1.26.jar" sourcepath="M2_REPO/ognl/ognl/3.1.26/ognl-3.1.26-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar" sourcepath="M2_REPO/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/attoparser/attoparser/2.0.5.RELEASE/attoparser-2.0.5.RELEASE.jar" sourcepath="M2_REPO/org/attoparser/attoparser/2.0.5.RELEASE/attoparser-2.0.5.RELEASE-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.jar" sourcepath="M2_REPO/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.15/commons-codec-1.15.jar" sourcepath="M2_REPO/commons-codec/commons-codec/1.15/commons-codec-1.15-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar" sourcepath="M2_REPO/com/google/code/gson/gson/2.8.5/gson-2.8.5-sources.jar"/>
+</classpath>
